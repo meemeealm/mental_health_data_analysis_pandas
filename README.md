@@ -1,1 +1,1 @@
-# Mental Healtth Data Analysis Using Pandas And Matplotlib
+# Mental Health Data Analysis Using Pandas And Matplotlib
